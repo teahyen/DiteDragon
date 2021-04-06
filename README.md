@@ -4,6 +4,8 @@
 
 플랫폼 : Android
 
+추후 업데이트 예정
+
 스토리: 살쪄서 못나는 용을 움직여서 다이어트 시켜줘요!
 
 출시 : [itch.io](https://roat.itch.io/kr)
